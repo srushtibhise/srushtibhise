@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Srushti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srushti-bhise-191457188/)](https://www.linkedin.com/in/srushti-bhise-191457188/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Srushti-green)](https://srushtibhise.github.io/MyProfile/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Srushti-green)](https://srushtibhise.github.io/my-profile/)
 
 
 I'm
